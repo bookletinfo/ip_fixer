@@ -23,3 +23,8 @@ Enter 1 for the default gateway (192.168.1.1).
 Enter 2 to specify a custom gateway.
 
 The script will apply the settings and confirm success.
+
+Requirements:
+Python 3.x: Ensure Python is installed on your system.
+
+Administrator Privileges: The script must be run with administrator rights.
